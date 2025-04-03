@@ -244,4 +244,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Created with ❤️ by [Hamza Mraizik]
+Created with ❤️ by [Hamza Mraizik, Khadija Sellami, Khadija Ahmada]
